@@ -9,7 +9,7 @@
 
 ## Building the Site
 
-We use [MkDocs]() to build the the course websites for this course.
+We use [MkDocs]() to build the course websites for this course.
 
 * First, clone our repository.
 ```{.bash}
